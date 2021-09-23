@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Galaxar\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Galaxar\\.nuget\\packages"
+    ]
+  }
+}

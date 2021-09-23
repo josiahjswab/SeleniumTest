@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "moM7lsOAMB0BowYGKIKISiza/hcjGh29o7Tb4G/+OtWwwvjbq25/Gvw0CecYXMevPkmACfQpo72i2zw1EpswuQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Galaxar\\Desktop\\projects\\SeleniumTestFolder\\SeleniumTesterson\\SeleniumTesterson\\SeleniumTesterson.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Galaxar\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Galaxar\\.nuget\\packages\\nunit\\2.6.4\\nunit.2.6.4.nupkg.sha512",
+    "C:\\Users\\Galaxar\\.nuget\\packages\\nunittestadapter\\2.3.0\\nunittestadapter.2.3.0.nupkg.sha512",
+    "C:\\Users\\Galaxar\\.nuget\\packages\\selenium.webdriver\\3.141.0\\selenium.webdriver.3.141.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'NUnit 2.6.4' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
+      "libraryId": "NUnit",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
